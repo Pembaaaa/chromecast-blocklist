@@ -1,0 +1,8 @@
+googlevideo.com
+cast.google.com
+connectivitycheck.gstatic.com
+redirector.googlevideo.com
+dl.google.com
+android.clients.google.com
+chromecast.com
+clients3.google.com
